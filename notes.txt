@@ -1,0 +1,22 @@
+npm i -g typescript
+
+npm i -g @angular/cli
+ng -v
+
+ng new search-app
+
+search-app>ng serve
+
+
+http://localhost:4200/
+
+ng serve
+
+ng build
+
+day-2
+-----
+Http methods: GET, PUT,POST, DELETE, OPTIONS, TRACE,HEAD
+https://jsonlint.com/
+
+https://itunes.apple.com/search?term=jack+johnson&limit=25
